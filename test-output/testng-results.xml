@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-25T17:35:43 IST" name="Default suite" finished-at="2024-05-25T17:35:49 IST" duration-ms="6070">
+    <groups>
+    </groups>
+    <test started-at="2024-05-25T17:35:43 IST" name="Default test" finished-at="2024-05-25T17:35:49 IST" duration-ms="6070">
+      <class name="qa.testcases.Search">
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.Search@13e344d]" started-at="2024-05-25T17:35:43 IST" name="setup" finished-at="2024-05-25T17:35:46 IST" duration-ms="2736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchitem()[pri:1, instance:qa.testcases.Search@13e344d]" started-at="2024-05-25T17:35:46 IST" name="searchitem" finished-at="2024-05-25T17:35:46 IST" duration-ms="410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchitem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.Search@13e344d]" started-at="2024-05-25T17:35:46 IST" name="tearDown" finished-at="2024-05-25T17:35:46 IST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.Search@13e344d]" started-at="2024-05-25T17:35:46 IST" name="setup" finished-at="2024-05-25T17:35:48 IST" duration-ms="2135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidSearchitem()[pri:2, instance:qa.testcases.Search@13e344d]" started-at="2024-05-25T17:35:48 IST" name="invalidSearchitem" finished-at="2024-05-25T17:35:49 IST" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidSearchitem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.Search@13e344d]" started-at="2024-05-25T17:35:49 IST" name="tearDown" finished-at="2024-05-25T17:35:49 IST" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testcases.Search -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

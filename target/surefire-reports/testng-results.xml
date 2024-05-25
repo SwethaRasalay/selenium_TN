@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-25T18:09:00 IST" name="TutorialsNinja Automation Suite" finished-at="2024-05-25T18:09:27 IST" duration-ms="26875">
+    <groups>
+    </groups>
+    <test started-at="2024-05-25T18:09:00 IST" name="Testcases" finished-at="2024-05-25T18:09:27 IST" duration-ms="26875">
+      <class name="qa.testcases.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.LoginTest@795509d9]" started-at="2024-05-25T18:09:09 IST" name="setup" finished-at="2024-05-25T18:09:12 IST" duration-ms="2867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:1, instance:qa.testcases.LoginTest@795509d9]" started-at="2024-05-25T18:09:12 IST" name="login" data-provider="testm" finished-at="2024-05-25T18:09:14 IST" duration-ms="1468" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shingade.shwetha@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.LoginTest@795509d9]" started-at="2024-05-25T18:09:14 IST" name="tearDown" finished-at="2024-05-25T18:09:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.LoginTest@795509d9]" started-at="2024-05-25T18:09:14 IST" name="setup" finished-at="2024-05-25T18:09:17 IST" duration-ms="2808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:1, instance:qa.testcases.LoginTest@795509d9]" started-at="2024-05-25T18:09:17 IST" name="login" data-provider="testm" finished-at="2024-05-25T18:09:18 IST" duration-ms="1420" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rajeshkumar.adn@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.LoginTest@795509d9]" started-at="2024-05-25T18:09:18 IST" name="tearDown" finished-at="2024-05-25T18:09:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.LoginTest@795509d9]" started-at="2024-05-25T18:09:18 IST" name="setup" finished-at="2024-05-25T18:09:21 IST" duration-ms="2756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:1, instance:qa.testcases.LoginTest@795509d9]" started-at="2024-05-25T18:09:21 IST" name="login" data-provider="testm" finished-at="2024-05-25T18:09:22 IST" duration-ms="1384" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rajaminpro@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.LoginTest@795509d9]" started-at="2024-05-25T18:09:22 IST" name="tearDown" finished-at="2024-05-25T18:09:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.LoginTest@795509d9]" started-at="2024-05-25T18:09:22 IST" name="setup" finished-at="2024-05-25T18:09:25 IST" duration-ms="2960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginwithInvalidCredentials()[pri:2, instance:qa.testcases.LoginTest@795509d9]" started-at="2024-05-25T18:09:25 IST" name="loginwithInvalidCredentials" finished-at="2024-05-25T18:09:27 IST" duration-ms="1384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithInvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.LoginTest@795509d9]" started-at="2024-05-25T18:09:27 IST" name="tearDown" finished-at="2024-05-25T18:09:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testcases.LoginTest -->
+      <class name="qa.testcases.SearchTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.SearchTest@1e0b4072]" started-at="2024-05-25T18:09:00 IST" name="setup" finished-at="2024-05-25T18:09:04 IST" duration-ms="3704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchitem()[pri:1, instance:qa.testcases.SearchTest@1e0b4072]" started-at="2024-05-25T18:09:04 IST" name="searchitem" finished-at="2024-05-25T18:09:04 IST" duration-ms="514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchitem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.SearchTest@1e0b4072]" started-at="2024-05-25T18:09:04 IST" name="tearDown" finished-at="2024-05-25T18:09:05 IST" duration-ms="676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.SearchTest@1e0b4072]" started-at="2024-05-25T18:09:05 IST" name="setup" finished-at="2024-05-25T18:09:08 IST" duration-ms="2725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidSearchitem()[pri:2, instance:qa.testcases.SearchTest@1e0b4072]" started-at="2024-05-25T18:09:08 IST" name="invalidSearchitem" finished-at="2024-05-25T18:09:08 IST" duration-ms="437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidSearchitem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.SearchTest@1e0b4072]" started-at="2024-05-25T18:09:08 IST" name="tearDown" finished-at="2024-05-25T18:09:09 IST" duration-ms="674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testcases.SearchTest -->
+    </test> <!-- Testcases -->
+  </suite> <!-- TutorialsNinja Automation Suite -->
+</testng-results>
